@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "website_template"
+  title: "JDemetra+"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: events.qmd
+        text: Events
 
 format:
   html:

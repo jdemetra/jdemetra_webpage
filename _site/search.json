@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "About this site TEST\n\n1 + 1\n\n[1] 2"
+    "text": "Events and conferences with presentations related to JDemetra+\n\nOECD/ Insee annual TSA workshop in December\nNTTS conference in March on odd year, next in March 2027\nuRos conference in November\nISI conference"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website_template",
+    "title": "JDemetra+",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Software and code\nR packages\nDocumentation\nUser Support\nBlog"
   }
 ]
