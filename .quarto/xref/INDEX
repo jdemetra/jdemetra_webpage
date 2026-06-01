@@ -7,5 +7,8 @@
   },
   "events.qmd": {
     "events.html": "67afa772"
+  },
+  "blog.qmd": {
+    "blog.html": "fa17d3eb"
   }
 }

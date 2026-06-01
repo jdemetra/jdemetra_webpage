@@ -3,13 +3,12 @@ title: "JDemetra+"
 subtitle: "Time Series Analysis Software for official statistics"
 ---
 
-
 - [Software and code](https://github.com/jdemetra/)
 
-- [R packages](https://github.com/rjdverse/) 
+- [R packages](https://github.com/rjdverse/)
 
 - [Documentation](https://doc.jdemetra.org)
 
-- [User Support](https://blog.jdemetra.org)
+- [User Support](https://github.com/cosa-tsa-shop/UserSupport)
 
 - [Blog](https://blog.jdemetra.org)

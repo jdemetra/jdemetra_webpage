@@ -4,10 +4,10 @@ title: "Events"
 
 Events and conferences with presentations related to JDemetra+
 
--   OECD/ Insee annual TSA workshop in December
+- OECD/ Insee annual TSA workshop in December
 
--   NTTS conference in March on odd year, next in March 2027
+- NTTS conference, organized by Eurostat in Brussels, next in March 2027
 
--   uRos conference in November
+- uRos conference in November, next 18,19,20 Nov in Paris
 
--   ISI conference
+- ISI conference, World Statistical Congress (WSC0), next in Lusaka 11-15 July 2027
